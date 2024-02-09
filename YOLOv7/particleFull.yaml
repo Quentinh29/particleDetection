@@ -1,0 +1,9 @@
+train: particleDatasetFull/images/train  
+val: particleDatasetFull/images/valid
+test: particleDatasetFull/images/test
+
+# number of classes
+nc: 5
+
+# class names
+names: ['50µm', '100µm', '150µm', 'Fibers', 'Grey']
